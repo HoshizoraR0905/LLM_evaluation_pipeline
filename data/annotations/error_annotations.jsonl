@@ -1,0 +1,3 @@
+{"id":"cs_002","error_type":"unstated_assumption"}
+{"id":"pokemon_001","error_type":"rule_composition_error"}
+{"id":"pokemon_002","error_type":"interaction_order_error"}
