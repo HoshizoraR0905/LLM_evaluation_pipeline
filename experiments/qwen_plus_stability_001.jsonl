@@ -1,0 +1,40 @@
+{"id": "cs_001", "domain": "commonsense", "topic": "ambiguity_resolution", "reasoning_type": "commonsense_reasoning", "run": 1, "prediction": "the money", "reference": "the money", "correct": true}
+{"id": "cs_001", "domain": "commonsense", "topic": "ambiguity_resolution", "reasoning_type": "commonsense_reasoning", "run": 2, "prediction": "the money", "reference": "the money", "correct": true}
+{"id": "cs_001", "domain": "commonsense", "topic": "ambiguity_resolution", "reasoning_type": "commonsense_reasoning", "run": 3, "prediction": "the money", "reference": "the money", "correct": true}
+{"id": "cs_001", "domain": "commonsense", "topic": "ambiguity_resolution", "reasoning_type": "commonsense_reasoning", "run": 4, "prediction": "the money", "reference": "the money", "correct": true}
+{"id": "cs_001", "domain": "commonsense", "topic": "ambiguity_resolution", "reasoning_type": "commonsense_reasoning", "run": 5, "prediction": "the money", "reference": "the money", "correct": true}
+{"id": "cs_001", "domain": "commonsense", "topic": "ambiguity_resolution", "reasoning_type": "commonsense_reasoning", "run": 6, "prediction": "the money", "reference": "the money", "correct": true}
+{"id": "cs_001", "domain": "commonsense", "topic": "ambiguity_resolution", "reasoning_type": "commonsense_reasoning", "run": 7, "prediction": "the money", "reference": "the money", "correct": true}
+{"id": "cs_001", "domain": "commonsense", "topic": "ambiguity_resolution", "reasoning_type": "commonsense_reasoning", "run": 8, "prediction": "the fish", "reference": "the money", "correct": false}
+{"id": "cs_001", "domain": "commonsense", "topic": "ambiguity_resolution", "reasoning_type": "commonsense_reasoning", "run": 9, "prediction": "the money", "reference": "the money", "correct": true}
+{"id": "cs_001", "domain": "commonsense", "topic": "ambiguity_resolution", "reasoning_type": "commonsense_reasoning", "run": 10, "prediction": "the money", "reference": "the money", "correct": true}
+{"id": "cs_002", "domain": "commonsense", "topic": "ambiguity_resolution", "reasoning_type": "unstated_assumption_detection", "run": 1, "prediction": "no", "reference": "No", "correct": true}
+{"id": "cs_002", "domain": "commonsense", "topic": "ambiguity_resolution", "reasoning_type": "unstated_assumption_detection", "run": 2, "prediction": "no", "reference": "No", "correct": true}
+{"id": "cs_002", "domain": "commonsense", "topic": "ambiguity_resolution", "reasoning_type": "unstated_assumption_detection", "run": 3, "prediction": "no", "reference": "No", "correct": true}
+{"id": "cs_002", "domain": "commonsense", "topic": "ambiguity_resolution", "reasoning_type": "unstated_assumption_detection", "run": 4, "prediction": "no", "reference": "No", "correct": true}
+{"id": "cs_002", "domain": "commonsense", "topic": "ambiguity_resolution", "reasoning_type": "unstated_assumption_detection", "run": 5, "prediction": "no", "reference": "No", "correct": true}
+{"id": "cs_002", "domain": "commonsense", "topic": "ambiguity_resolution", "reasoning_type": "unstated_assumption_detection", "run": 6, "prediction": "no", "reference": "No", "correct": true}
+{"id": "cs_002", "domain": "commonsense", "topic": "ambiguity_resolution", "reasoning_type": "unstated_assumption_detection", "run": 7, "prediction": "no", "reference": "No", "correct": true}
+{"id": "cs_002", "domain": "commonsense", "topic": "ambiguity_resolution", "reasoning_type": "unstated_assumption_detection", "run": 8, "prediction": "no", "reference": "No", "correct": true}
+{"id": "cs_002", "domain": "commonsense", "topic": "ambiguity_resolution", "reasoning_type": "unstated_assumption_detection", "run": 9, "prediction": "no", "reference": "No", "correct": true}
+{"id": "cs_002", "domain": "commonsense", "topic": "ambiguity_resolution", "reasoning_type": "unstated_assumption_detection", "run": 10, "prediction": "no", "reference": "No", "correct": true}
+{"id": "pokemon_001", "domain": "pokemon", "topic": "battle_mechanics", "reasoning_type": "rule_composition", "run": 1, "prediction": "Thunder Wave", "reference": "dragon pulse", "correct": false}
+{"id": "pokemon_001", "domain": "pokemon", "topic": "battle_mechanics", "reasoning_type": "rule_composition", "run": 2, "prediction": "Thunder Wave", "reference": "dragon pulse", "correct": false}
+{"id": "pokemon_001", "domain": "pokemon", "topic": "battle_mechanics", "reasoning_type": "rule_composition", "run": 3, "prediction": "Thunder Wave", "reference": "dragon pulse", "correct": false}
+{"id": "pokemon_001", "domain": "pokemon", "topic": "battle_mechanics", "reasoning_type": "rule_composition", "run": 4, "prediction": "Thunder Wave", "reference": "dragon pulse", "correct": false}
+{"id": "pokemon_001", "domain": "pokemon", "topic": "battle_mechanics", "reasoning_type": "rule_composition", "run": 5, "prediction": "Thunder Wave", "reference": "dragon pulse", "correct": false}
+{"id": "pokemon_001", "domain": "pokemon", "topic": "battle_mechanics", "reasoning_type": "rule_composition", "run": 6, "prediction": "Thunder Wave", "reference": "dragon pulse", "correct": false}
+{"id": "pokemon_001", "domain": "pokemon", "topic": "battle_mechanics", "reasoning_type": "rule_composition", "run": 7, "prediction": "Thunder Wave", "reference": "dragon pulse", "correct": false}
+{"id": "pokemon_001", "domain": "pokemon", "topic": "battle_mechanics", "reasoning_type": "rule_composition", "run": 8, "prediction": "Dragon Pulse", "reference": "dragon pulse", "correct": true}
+{"id": "pokemon_001", "domain": "pokemon", "topic": "battle_mechanics", "reasoning_type": "rule_composition", "run": 9, "prediction": "Dragon Pulse", "reference": "dragon pulse", "correct": true}
+{"id": "pokemon_001", "domain": "pokemon", "topic": "battle_mechanics", "reasoning_type": "rule_composition", "run": 10, "prediction": "Thunder Wave", "reference": "dragon pulse", "correct": false}
+{"id": "pokemon_002", "domain": "pokemon", "topic": "weather_activation_order", "reasoning_type": "interaction_ordering", "run": 1, "prediction": "Sunny day", "reference": "snow", "correct": false}
+{"id": "pokemon_002", "domain": "pokemon", "topic": "weather_activation_order", "reasoning_type": "interaction_ordering", "run": 2, "prediction": "Sunny day", "reference": "snow", "correct": false}
+{"id": "pokemon_002", "domain": "pokemon", "topic": "weather_activation_order", "reasoning_type": "interaction_ordering", "run": 3, "prediction": "Sunny day", "reference": "snow", "correct": false}
+{"id": "pokemon_002", "domain": "pokemon", "topic": "weather_activation_order", "reasoning_type": "interaction_ordering", "run": 4, "prediction": "Sunny day", "reference": "snow", "correct": false}
+{"id": "pokemon_002", "domain": "pokemon", "topic": "weather_activation_order", "reasoning_type": "interaction_ordering", "run": 5, "prediction": "Sunny day", "reference": "snow", "correct": false}
+{"id": "pokemon_002", "domain": "pokemon", "topic": "weather_activation_order", "reasoning_type": "interaction_ordering", "run": 6, "prediction": "Sunny day", "reference": "snow", "correct": false}
+{"id": "pokemon_002", "domain": "pokemon", "topic": "weather_activation_order", "reasoning_type": "interaction_ordering", "run": 7, "prediction": "Sunny day", "reference": "snow", "correct": false}
+{"id": "pokemon_002", "domain": "pokemon", "topic": "weather_activation_order", "reasoning_type": "interaction_ordering", "run": 8, "prediction": "snow", "reference": "snow", "correct": true}
+{"id": "pokemon_002", "domain": "pokemon", "topic": "weather_activation_order", "reasoning_type": "interaction_ordering", "run": 9, "prediction": "snow", "reference": "snow", "correct": true}
+{"id": "pokemon_002", "domain": "pokemon", "topic": "weather_activation_order", "reasoning_type": "interaction_ordering", "run": 10, "prediction": "snow", "reference": "snow", "correct": true}
