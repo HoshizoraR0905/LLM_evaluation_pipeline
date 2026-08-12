@@ -7,13 +7,18 @@ from src.evaluation.evaluator import evaluate_answer
 from src.inference.model_client import ask_model
 
 
-NUM_RUNS = 10
+NUM_RUNS = 5
 
 TARGET_IDS = {
-    "cs_001",
-    "cs_002",
-    "pokemon_001",
-    "pokemon_002",
+    #"cs_001",
+    #"cs_002",
+    #"pokemon_001",
+    #"pokemon_002",
+    #"pokemon_003",
+    #"pokemon_004",
+    #"pokemon_005",
+    #"pokemon_006",
+    "pokemon_007",
 }
 
 RESULTS_PATH = Path("data/results/repeated_evaluation_results.jsonl")

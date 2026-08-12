@@ -18,3 +18,8 @@
 {"id": "pokemon_006", "domain": "pokemon", "topic": "weather_activation_order", "reasoning_type": "rule_application", "run": 3, "prediction": "sun", "reference": "sun", "correct": true}
 {"id": "pokemon_006", "domain": "pokemon", "topic": "weather_activation_order", "reasoning_type": "rule_application", "run": 4, "prediction": "rain", "reference": "sun", "correct": false}
 {"id": "pokemon_006", "domain": "pokemon", "topic": "weather_activation_order", "reasoning_type": "rule_application", "run": 5, "prediction": "rain", "reference": "sun", "correct": false}
+{"id": "pokemon_007", "domain": "pokemon", "topic": "ability_activation_order", "reasoning_type": "rule_recall", "run": 1, "prediction": "faster", "reference": "faster", "correct": true}
+{"id": "pokemon_007", "domain": "pokemon", "topic": "ability_activation_order", "reasoning_type": "rule_recall", "run": 2, "prediction": "faster", "reference": "faster", "correct": true}
+{"id": "pokemon_007", "domain": "pokemon", "topic": "ability_activation_order", "reasoning_type": "rule_recall", "run": 3, "prediction": "faster", "reference": "faster", "correct": true}
+{"id": "pokemon_007", "domain": "pokemon", "topic": "ability_activation_order", "reasoning_type": "rule_recall", "run": 4, "prediction": "slower", "reference": "faster", "correct": false}
+{"id": "pokemon_007", "domain": "pokemon", "topic": "ability_activation_order", "reasoning_type": "rule_recall", "run": 5, "prediction": "faster", "reference": "faster", "correct": true}

@@ -20,6 +20,9 @@ def ask_model(question: str) -> str:
     prompt = f"""
 Solve the following problem.
 
+Before answering, explicitly identify all relevant rules, abilities,
+immunities, and ordering effects, then combine them carefully.
+
 {question}
 
 Give your reasoning, but end your response with exactly:
