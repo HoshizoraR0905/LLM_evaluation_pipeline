@@ -1,0 +1,50 @@
+{"id": "logic_001", "domain": "logic", "topic": "rule_composition", "reasoning_type": "rule_composition", "run": 1, "prediction": "yes", "reference": "yes", "correct": true}
+{"id": "logic_001", "domain": "logic", "topic": "rule_composition", "reasoning_type": "rule_composition", "run": 2, "prediction": "yes", "reference": "yes", "correct": true}
+{"id": "logic_001", "domain": "logic", "topic": "rule_composition", "reasoning_type": "rule_composition", "run": 3, "prediction": "yes", "reference": "yes", "correct": true}
+{"id": "logic_001", "domain": "logic", "topic": "rule_composition", "reasoning_type": "rule_composition", "run": 4, "prediction": "yes", "reference": "yes", "correct": true}
+{"id": "logic_001", "domain": "logic", "topic": "rule_composition", "reasoning_type": "rule_composition", "run": 5, "prediction": "yes", "reference": "yes", "correct": true}
+{"id": "logic_002", "domain": "logic", "topic": "exception_handling", "reasoning_type": "exception_handling", "run": 1, "prediction": "no", "reference": "no", "correct": true}
+{"id": "logic_002", "domain": "logic", "topic": "exception_handling", "reasoning_type": "exception_handling", "run": 2, "prediction": "no", "reference": "no", "correct": true}
+{"id": "logic_002", "domain": "logic", "topic": "exception_handling", "reasoning_type": "exception_handling", "run": 3, "prediction": "no", "reference": "no", "correct": true}
+{"id": "logic_002", "domain": "logic", "topic": "exception_handling", "reasoning_type": "exception_handling", "run": 4, "prediction": "no", "reference": "no", "correct": true}
+{"id": "logic_002", "domain": "logic", "topic": "exception_handling", "reasoning_type": "exception_handling", "run": 5, "prediction": "no", "reference": "no", "correct": true}
+{"id": "logic_003", "domain": "logic", "topic": "ordering", "reasoning_type": "state_tracking", "run": 1, "prediction": "B", "reference": "B", "correct": true}
+{"id": "logic_003", "domain": "logic", "topic": "ordering", "reasoning_type": "state_tracking", "run": 2, "prediction": "B", "reference": "B", "correct": true}
+{"id": "logic_003", "domain": "logic", "topic": "ordering", "reasoning_type": "state_tracking", "run": 3, "prediction": "B", "reference": "B", "correct": true}
+{"id": "logic_003", "domain": "logic", "topic": "ordering", "reasoning_type": "state_tracking", "run": 4, "prediction": "B", "reference": "B", "correct": true}
+{"id": "logic_003", "domain": "logic", "topic": "ordering", "reasoning_type": "state_tracking", "run": 5, "prediction": "B", "reference": "B", "correct": true}
+{"id": "logic_004", "domain": "logic", "topic": "rule_composition", "reasoning_type": "rule_composition", "run": 1, "prediction": "neither", "reference": "neither", "correct": true}
+{"id": "logic_004", "domain": "logic", "topic": "rule_composition", "reasoning_type": "rule_composition", "run": 2, "prediction": "neither", "reference": "neither", "correct": true}
+{"id": "logic_004", "domain": "logic", "topic": "rule_composition", "reasoning_type": "rule_composition", "run": 3, "prediction": "neither", "reference": "neither", "correct": true}
+{"id": "logic_004", "domain": "logic", "topic": "rule_composition", "reasoning_type": "rule_composition", "run": 4, "prediction": "neither", "reference": "neither", "correct": true}
+{"id": "logic_004", "domain": "logic", "topic": "rule_composition", "reasoning_type": "rule_composition", "run": 5, "prediction": "neither", "reference": "neither", "correct": true}
+{"id": "logic_005", "domain": "logic", "topic": "counterfactual", "reasoning_type": "counterfactual", "run": 1, "prediction": "no", "reference": "no", "correct": true}
+{"id": "logic_005", "domain": "logic", "topic": "counterfactual", "reasoning_type": "counterfactual", "run": 2, "prediction": "no", "reference": "no", "correct": true}
+{"id": "logic_005", "domain": "logic", "topic": "counterfactual", "reasoning_type": "counterfactual", "run": 3, "prediction": "no", "reference": "no", "correct": true}
+{"id": "logic_005", "domain": "logic", "topic": "counterfactual", "reasoning_type": "counterfactual", "run": 4, "prediction": "no", "reference": "no", "correct": true}
+{"id": "logic_005", "domain": "logic", "topic": "counterfactual", "reasoning_type": "counterfactual", "run": 5, "prediction": "no", "reference": "no", "correct": true}
+{"id": "logic_006", "domain": "logic", "topic": "state_tracking", "reasoning_type": "state_tracking", "run": 1, "prediction": "C", "reference": "C", "correct": true}
+{"id": "logic_006", "domain": "logic", "topic": "state_tracking", "reasoning_type": "state_tracking", "run": 2, "prediction": "C", "reference": "C", "correct": true}
+{"id": "logic_006", "domain": "logic", "topic": "state_tracking", "reasoning_type": "state_tracking", "run": 3, "prediction": "C", "reference": "C", "correct": true}
+{"id": "logic_006", "domain": "logic", "topic": "state_tracking", "reasoning_type": "state_tracking", "run": 4, "prediction": "C", "reference": "C", "correct": true}
+{"id": "logic_006", "domain": "logic", "topic": "state_tracking", "reasoning_type": "state_tracking", "run": 5, "prediction": "C", "reference": "C", "correct": true}
+{"id": "logic_007", "domain": "logic", "topic": "exception_handling", "reasoning_type": "exception_handling", "run": 1, "prediction": "yes", "reference": "yes", "correct": true}
+{"id": "logic_007", "domain": "logic", "topic": "exception_handling", "reasoning_type": "exception_handling", "run": 2, "prediction": "yes", "reference": "yes", "correct": true}
+{"id": "logic_007", "domain": "logic", "topic": "exception_handling", "reasoning_type": "exception_handling", "run": 3, "prediction": "yes", "reference": "yes", "correct": true}
+{"id": "logic_007", "domain": "logic", "topic": "exception_handling", "reasoning_type": "exception_handling", "run": 4, "prediction": "yes", "reference": "yes", "correct": true}
+{"id": "logic_007", "domain": "logic", "topic": "exception_handling", "reasoning_type": "exception_handling", "run": 5, "prediction": "yes", "reference": "yes", "correct": true}
+{"id": "logic_008", "domain": "logic", "topic": "constraint_reasoning", "reasoning_type": "constraint_reasoning", "run": 1, "prediction": "cannot be determined", "reference": "cannot be determined", "correct": true}
+{"id": "logic_008", "domain": "logic", "topic": "constraint_reasoning", "reasoning_type": "constraint_reasoning", "run": 2, "prediction": "cannot be determined", "reference": "cannot be determined", "correct": true}
+{"id": "logic_008", "domain": "logic", "topic": "constraint_reasoning", "reasoning_type": "constraint_reasoning", "run": 3, "prediction": "cannot be determined", "reference": "cannot be determined", "correct": true}
+{"id": "logic_008", "domain": "logic", "topic": "constraint_reasoning", "reasoning_type": "constraint_reasoning", "run": 4, "prediction": "cannot be determined", "reference": "cannot be determined", "correct": true}
+{"id": "logic_008", "domain": "logic", "topic": "constraint_reasoning", "reasoning_type": "constraint_reasoning", "run": 5, "prediction": "cannot be determined", "reference": "cannot be determined", "correct": true}
+{"id": "logic_009", "domain": "logic", "topic": "counterfactual", "reasoning_type": "counterfactual", "run": 1, "prediction": "no", "reference": "no", "correct": true}
+{"id": "logic_009", "domain": "logic", "topic": "counterfactual", "reasoning_type": "counterfactual", "run": 2, "prediction": "no", "reference": "no", "correct": true}
+{"id": "logic_009", "domain": "logic", "topic": "counterfactual", "reasoning_type": "counterfactual", "run": 3, "prediction": "no", "reference": "no", "correct": true}
+{"id": "logic_009", "domain": "logic", "topic": "counterfactual", "reasoning_type": "counterfactual", "run": 4, "prediction": "no", "reference": "no", "correct": true}
+{"id": "logic_009", "domain": "logic", "topic": "counterfactual", "reasoning_type": "counterfactual", "run": 5, "prediction": "no", "reference": "no", "correct": true}
+{"id": "logic_010", "domain": "logic", "topic": "rule_composition", "reasoning_type": "rule_composition", "run": 1, "prediction": "yes", "reference": "yes", "correct": true}
+{"id": "logic_010", "domain": "logic", "topic": "rule_composition", "reasoning_type": "rule_composition", "run": 2, "prediction": "yes", "reference": "yes", "correct": true}
+{"id": "logic_010", "domain": "logic", "topic": "rule_composition", "reasoning_type": "rule_composition", "run": 3, "prediction": "yes", "reference": "yes", "correct": true}
+{"id": "logic_010", "domain": "logic", "topic": "rule_composition", "reasoning_type": "rule_composition", "run": 4, "prediction": "yes", "reference": "yes", "correct": true}
+{"id": "logic_010", "domain": "logic", "topic": "rule_composition", "reasoning_type": "rule_composition", "run": 5, "prediction": "yes", "reference": "yes", "correct": true}
